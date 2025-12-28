@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Rezervo<br>🌱 I’m currently learning Azure, Docker
+28.12.2025 COMEBACK
+🌱 I’m currently learning Angular
 
 
 # 💻 Tech Stack:
